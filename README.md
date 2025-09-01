@@ -6,7 +6,8 @@ A new Flutter project created with FlutLab - https://flutlab.io
 
 A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/get-started/codelab<img width="320" height="568" alt="Frame 3" src="https://github.com/user-attachments/assets/28cc9ed2-349a-4ca1-9fea-063da4a85456" />
+
 - https://flutter.dev/docs/cookbook
 
 For help getting started with Flutter, view our
